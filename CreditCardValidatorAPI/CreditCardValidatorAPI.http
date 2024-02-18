@@ -1,0 +1,6 @@
+@CreditCardValidatorAPI_HostAddress = http://localhost:5158
+
+GET {{CreditCardValidatorAPI_HostAddress}}/cardvalidator/
+Accept: application/json
+
+###

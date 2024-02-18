@@ -1,0 +1,14 @@
+D:\Assessment\CreditCardValidator\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\Assessment\CreditCardValidator\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+D:\Assessment\CreditCardValidator\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\Assessment\CreditCardValidator\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\Assessment\CreditCardValidator\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\Assessment\CreditCardValidator\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assessment\CreditCardValidator\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\Assessment\CreditCardValidator\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\Assessment\CreditCardValidator\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Assessment\CreditCardValidator\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\Assessment\CreditCardValidator\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\Assessment\CreditCardValidator\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\Assessment\CreditCardValidator\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+D:\Assessment\CreditCardValidator\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

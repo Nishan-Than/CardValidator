@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CreditCardValidatorAPI.Controllers.CardValidatorController",
+    "Method": "ValidateCard",
+    "RelativePath": "api/CardValidator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cardNo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
